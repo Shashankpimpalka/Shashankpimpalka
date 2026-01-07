@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am Shashahnk Pimpalkar 👋
 # 💫 About Me:
 💻 Full Stack Developer specializing in Java & Angular<br><br>🧠 Currently working on<br><br>Angular 20<br><br>Spring Boot 3.x<br><br>Microservices architecture<br><br>API Gateway & Eureka<br><br>Hibernate & MySQL<br><br>DevOps basics with AWS<br><br>🌱 Currently learning<br><br>AI integration (LLMs, Ollama)<br><br>LangChain<br><br>Vector Databases<br><br>AI / ML fundamentals<br><br>🔍 Looking for<br><br>Java Full Stack / Backend Developer roles<br><br>Challenging projects in scalable systems & AI-powered applications<br><br>🚀 Passionate about building real-world products and writing clean, maintainable code<br><br>⚡ Fun fact: I love turning complex system designs into simple, working solutions 😄
 
